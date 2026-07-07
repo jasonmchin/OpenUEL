@@ -1,0 +1,29 @@
+# Recommended Resources {.unnumbered}
+
+::: {.callout-note}
+This chapter is under development. Content will be added as the project progresses.
+:::
+
+## Legislation
+
+- [Evidence Act 1995 (Cth)](https://www.legislation.gov.au/C2004A04858/latest/text)
+- [Evidence Act 1995 (NSW)](https://legislation.nsw.gov.au/view/html/inforce/current/act-1995-025)
+- [Evidence Act 2008 (Vic)](https://www.legislation.vic.gov.au/in-force/acts/evidence-act-2008)
+- [Add other uniform jurisdictions: ACT, Tas, NT.]
+
+## Case law databases
+
+- [AustLII](https://www.austlii.edu.au/)
+- [Jade](https://jade.io/)
+
+## Law reform reports
+
+- [ALRC Report 102, *Uniform Evidence Law* (2005) and related reports.]
+
+## Open access scholarship
+
+- [Curated open access articles and commentary go here.]
+
+## Other resources
+
+- [Podcasts, videos, judicial bench books, and anything else useful to students.]

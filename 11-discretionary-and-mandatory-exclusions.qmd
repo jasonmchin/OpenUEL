@@ -1,0 +1,38 @@
+# Discretionary and Mandatory Exclusions
+
+::: {.callout-note}
+This chapter is under development. Content will be added as the project progresses.
+:::
+
+## Overview
+
+[A short orientation for students: what this topic is, why it matters, and how it fits within the uniform Evidence Acts.]
+
+## Key provisions
+
+::: {.statute}
+[**Evidence Act 1995 (Cth) s XX — Section heading**]{.statute-heading}
+[Section text here.]
+:::
+
+## Key cases
+
+::: {.case-extract}
+[**Case Name** (Year) Citation]{.case-citation}
+[Extract here.]
+:::
+
+[Commentary connecting the extract to the statutory framework.]
+
+## Discussion questions
+
+::: {.questions}
+**Questions**
+
+1. [First question.]
+2. [Second question.]
+:::
+
+## Further reading
+
+[Optional pointers to open access commentary, law reform reports, and scholarship.]

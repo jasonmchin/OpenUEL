@@ -1,0 +1,48 @@
+# Introduction {.unnumbered}
+
+Welcome to *Open Uniform Evidence Law*, a free, open access casebook for students and teachers of evidence law in Australia's uniform evidence law jurisdictions.
+
+## About this casebook
+
+[Replace this section with your introduction: the purpose of the book, its intended audience, how it relates to the uniform Evidence Acts, and how students should use it alongside lectures, tutorials, and assessment.]
+
+## How to use this book
+
+This book is available in three formats:
+
+- **Web**: the version you are reading now, fully searchable, with hyperlinks to cases on AustLII and to legislation.
+- **PDF**: downloadable and printable, including for use in open book, invigilated examinations. Use the download button in the sidebar.
+- **Source**: the complete source files are available on [GitHub](https://github.com/jasonmchin/OpenUEL), where errors can be reported and contributions proposed.
+
+## A note on extracts
+
+Case extracts appear in green panels:
+
+::: {.case-extract}
+[**Smith v The Queen** (2001) 206 CLR 650]{.case-citation}
+[Extract text goes here. Replace this with the relevant passage.]
+:::
+
+Statutory extracts appear in bordered panels:
+
+::: {.statute}
+[**Evidence Act 1995 (Cth) s 55 — Relevant evidence**]{.statute-heading}
+[Section text goes here.]
+:::
+
+Discussion questions appear in gold panels:
+
+::: {.questions}
+**Questions**
+
+1. [First question here.]
+2. [Second question here.]
+:::
+
+## Acknowledgements
+
+[Acknowledgements, funding, and contributor credits go here.]
+
+## Licence
+
+This book is licensed under a [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt it, provided you give appropriate credit.

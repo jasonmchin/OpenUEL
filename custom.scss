@@ -1,0 +1,53 @@
+/*-- scss:defaults --*/
+
+// A restrained palette suited to a legal text: deep gum-leaf green
+// as the working accent, warm off-white pages, ink-dark body text.
+$primary: #1f5c4d;
+$link-color: #1f5c4d;
+$body-bg: #fdfcf9;
+$body-color: #1c1c1c;
+
+$font-family-sans-serif: "Source Sans 3", "Source Sans Pro", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+$headings-font-weight: 650;
+
+/*-- scss:rules --*/
+
+// Case extracts: the visual signature of a casebook. Use with
+// ::: {.case-extract} ... ::: in the .qmd files.
+.case-extract {
+  border-left: 4px solid #1f5c4d;
+  background: #f2f5f3;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-size: 0.97em;
+}
+
+.case-extract .case-citation {
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+// Statutory extracts, e.g. sections of the uniform Evidence Acts.
+.statute {
+  border: 1px solid #d8d3c4;
+  background: #faf8f1;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.statute .statute-heading {
+  font-weight: 650;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+// Discussion / tutorial questions.
+.questions {
+  border-left: 4px solid #b3872a;
+  background: #fbf6ea;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}

@@ -1,0 +1,58 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Open Uniform Evidence Law"
+  subtitle: "An Open Access Casebook for Australian Law Students"
+  author: "Jason M Chin"
+  date: today
+  repo-url: https://github.com/jasonmchin/OpenUEL
+  repo-actions: [issue]
+  site-url: https://jasonmchin.github.io/OpenUEL/
+  search: true
+  downloads: [pdf]
+  sidebar:
+    style: docked
+  page-footer:
+    left: |
+      Open Uniform Evidence Law by Jason M Chin.
+    right: |
+      Licensed under CC BY 4.0.
+  chapters:
+    - index.qmd
+    - 01-giving-and-presenting-evidence.qmd
+    - 02-relevance.qmd
+    - 03-hearsay.qmd
+    - 04-hearsay-exceptions.qmd
+    - 05-opinion-evidence.qmd
+    - 06-admissions.qmd
+    - 07-tendency-and-coincidence.qmd
+    - 08-credibility-evidence.qmd
+    - 09-character-evidence.qmd
+    - 10-identification-evidence.qmd
+    - 11-discretionary-and-mandatory-exclusions.qmd
+    - 12-proof.qmd
+    - 13-recommended-resources.qmd
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    link-external-newwindow: true
+    code-copy: true
+  pdf:
+    documentclass: scrbook
+    toc: true
+    number-sections: true
+    geometry:
+      - margin=2.5cm
+    include-in-header:
+      text: |
+        \usepackage{fvextra}
+        \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+
+license: "CC BY 4.0"
